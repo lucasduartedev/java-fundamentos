@@ -1,1 +1,3 @@
-# Repositório de Fundamentos em Java
+# Fundamentos em Java
+
+- Repositório simples para aplicar conhecimentos em Fundamentos em Java!
