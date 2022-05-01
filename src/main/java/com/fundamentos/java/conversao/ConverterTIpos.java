@@ -14,7 +14,7 @@ public class ConverterTIpos {
 		float f1 = 2.54F;
 		float f2 = (int) 5;
 		Double d = 555.2;
-		
+
 		System.out.println(("" + i).length());
 		
 	}
